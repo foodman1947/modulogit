@@ -4,6 +4,9 @@
 }
 a{
     display: block;
+    width: 20px;
+    margin: 0 auto;
+
 }
 
 div.box{
