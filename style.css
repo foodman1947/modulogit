@@ -11,3 +11,9 @@ div.box{
     height: 100px;
     background-color: aqua;
 }
+div.background{
+    text-align: center;
+    width: 100%;
+    height: 400px;
+    background-color: red;
+}
